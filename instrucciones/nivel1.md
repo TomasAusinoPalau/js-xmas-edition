@@ -73,8 +73,8 @@ Para validar nuestro formulario, vamos a tener  que hacer lo siguiente:
 ================================
     
   Agregar algunas validaciones al nombre.
-  - Si `nombre` está vacío, imprimir el error: '
-  Este campo debe tener al menos 1 caracter'
+  - Si `nombre` está vacío, imprimir el error: 
+  ' Este campo debe tener al menos 1 caracter'
   - Si `nombre` es mayor a 50 caracteres, imprimir 
   el error: 'Este campo debe tener menos de 50 caracteres'
 
